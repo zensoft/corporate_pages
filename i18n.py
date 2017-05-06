@@ -1,0 +1,72 @@
+I18N = {
+   "pl":{
+      "nasza-odpowiedzialnosc":"Nasza odpowiedzialność",
+      "srodowisko":"Środowisko",
+      "przyrodnicze-zasoby":"Przyrodnicze zasoby",
+      "transport":"Transport",
+      "klimat":"Klimat",
+      "warunki-pracy":"Warunki pracy",
+      "lancuch-dostawczy":"Łańcuch dostawczy",
+      "kodeks-postepowania":"Kodeks postępowania",
+      "asortyment":"Asortyment",
+      "zrownowazone-produkty":"Zrównoważone produkty",
+      "jakosc-produktow":"Jakość produktów",
+      "zaangazowanie":"Zaangażowanie"
+   },
+   "sk":{
+      "nasa-zodpovednost":"Naša zodpovednosť",
+      "zivotne-prostredie":"Životné prostredie",
+      "prirodne-zdroje":"Prírodné zdroje",
+      "preprava-tovaru":"Preprava tovaru",
+      "klima":"Klíma",
+      "pracovne-podmienky":"Pracovné podmienky",
+      "dodavatelsky-retazec":"Dodavateľský reťazec",
+      "pravidla-spravania":"Pravidlá správania",
+      "sortiment":"Sortiment",
+      "trvalo-udrzatelne-produkty":"Trvalo udržateľné produkty",
+      "kvalita-produktov":"Kvalita produktov",
+      "podporovanie":"Podporovanie"
+   },
+   "hu":{
+      "a-mi-felelossegunk":"A mi felelősségünk",
+      "kornyezet":"Környezet",
+      "eroforrasok":"Erőforrások",
+      "aruszallitas":"Áruszállítás",
+      "klima":"Klíma",
+      "munkafeltetelek":"Munkafeltételek",
+      "ellatas":"Ellátás",
+      "magatartasi-kodex":"Magatartási kódex",
+      "szortiment":"Szortiment",
+      "fenntarthato-termekek":"Fenntartható termékek",
+      "termek-minoseg":"Termék minőség",
+      "elkotelezettseg":"Elkötelezettség"
+   },
+   "ua":{
+      "nasha-otvetstvennost":"Наша ответственность",
+      "okruzhayushchaya-sreda":"Окружающая среда",
+      "resursy":"Ресурсы",
+      "transportirovka-tovarov":"Транспортировка товаров",
+      "klimat":"Климат",
+      "usloviya-truda":"Условия труда",
+      "tsep-postavki":"Цепь поставки",
+      "normy-povedeniya":"Нормы поведения",
+      "assortiment":"Ассортимент",
+      "tovary-dolgosrochnogo-proizvodstva":"Товары долгосрочного производства",
+      "kachestvo-produktsii":"Качество продукции",
+      "obshchestvennaya-deyatelnost":"Общественная деятельность"
+   },
+   "ro":{
+      "responsabilitatea-noastra":"Responsabilitatea noastră",
+      "mediu-inconjurator":"Mediu înconjurător",
+      "resurse":"Resurse",
+      "transportul-marfurilor":"Transportul mărfurilor",
+      "clima":"Clima",
+      "conditii-de-munca":"Condiţii de muncă",
+      "lantul-de-liferanti":"Lanţul de liferanţi",
+      "codul-de-conduita":"Codul de conduită",
+      "sortiment":"Sortiment",
+      "produse-viabile":"Produse viabile",
+      "calitatea-produselor":"Calitatea produselor",
+      "angajament":"Angajament"
+   }
+}
